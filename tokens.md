@@ -1,5 +1,7 @@
 Tokens are the primary currency of Insert Coin Theater. Tokens are earned by watching the stream, with bonuses being given for being engaged in chat, becoming a regular (15 hours or more of view time), or being a subscriber!
 
+Tokens are awarded every 20 minutes.
+
 ## Uses for Tokens
 
 ### Games
@@ -8,9 +10,9 @@ There are a variety of mini-games in which you can participate in the Arcade. Th
 
 | Game | Description | Command |
 | ------------ | ------------- | ------------ |
-| Claw Game | Test your "skill" with the Claw Game to try to get a bonus of tokens over top of what you put into the machine!  | !claw <tokens amount> |
-| Laser Tag | Battle against an NPC group of Laser Tag combatants to try to earn a Token bonus over what you bet! | !lasertag <tokens amount> |
-| DDR Tournament | Play some Dance Dance Revolution against other viewers to win the gambled prize pool of tokens. | !ddr <tokens amount> |
+| Claw Game | Test your "skill" with the Claw Game to try to get a bonus of tokens over top of what you put into the machine!  | !claw &lt;tokens amount&gt; |
+| Laser Tag | Battle against an NPC group of Laser Tag combatants to try to earn a Token bonus over what you bet! | !lasertag &lt;tokens amount&gt; |
+| DDR Tournament | Play some Dance Dance Revolution against other viewers to win the gambled prize pool of tokens. | !ddr &lt;tokens amount&gt; |
 
 ### Open Jukebox
 
