@@ -2,10 +2,6 @@ Tickets are the secondary currency of Insert Coin Theater. Tickets are earned vi
 
 You can check your tickets at any time using **!tickets** in chat.
 
-Chat Prizes are unlocked using Tickets, which are earned from [Lootboxes](tokens.md) during streams, which in turn are purchased using [Tokens](tokens.md).
-
-Each Lootbox contains Tickets, Tokens, Steam Game Giveaways, or an instant Beanboozled Bean for Tim to eat on-the-spot!
-
 ## Prizes, Costs and Commands  
 | Prize | Tickets | Command |
 | ------------ | -------------: | ------------ |
