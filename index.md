@@ -1,0 +1,1 @@
+Please see the [Prizes](prizes.md) for further details.
