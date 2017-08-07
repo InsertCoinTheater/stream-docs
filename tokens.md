@@ -2,6 +2,8 @@ Tokens are the primary currency of Insert Coin Theater. Tokens are earned by wat
 
 Tokens are awarded every 20 minutes.
 
+You can check your Tokens at any time by using **!tokens** in chat.
+
 ## Uses for Tokens  
 ### Games  
 There are a variety of mini-games in which you can participate in the Arcade. The table below details the games and the commands to activate or participate in them.

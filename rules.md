@@ -4,7 +4,9 @@
 
 ## Don't be a dick  
 This means be respectful to each other. This is repeated in the "Follow the Golden Rule" rule. Be kind to each other. You're all human beings and you can poke fun at one another or the streamer (yes, Tim's a person too) without being mean about it.
+
 * Absolutely NO rape jokes or edgelord memes. They're not funny and wholly unappreciated.  
+
 * *DO NOT* argue with mods or the streamer. Their word is final, and if you have an issue, please take it up in DMs on Discord, not in public forums.
 
 ## NO religion/politics  

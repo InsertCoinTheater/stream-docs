@@ -1,4 +1,6 @@
-Tickets are the secondary currency of Insert Coin Theater. You can check your tickets at any time using **!tickets** in chat.
+Tickets are the secondary currency of Insert Coin Theater. Tickets are earned via Lootboxes which can be attained using [Tokens](tokens.md).
+
+You can check your tickets at any time using **!tickets** in chat.
 
 Chat Prizes are unlocked using Tickets, which are earned from [Lootboxes](tokens.md) during streams, which in turn are purchased using [Tokens](tokens.md).
 
@@ -8,8 +10,8 @@ Each Lootbox contains Tickets, Tokens, Steam Game Giveaways, or an instant Beanb
 | Prize | Tickets | Command |
 | ------------ | -------------: | ------------ |
 | Text-To-Speech (Sub Only) | 50  | !tts your message here |
-| Monthly Sub Raffle Entry (Non-Sub Only) | 100 | !subraffle |
-| Monthly Mixer Pro Raffle Entry | 100 | !proraffle |
+| Monthly Sub Raffle Entry (Non-Sub Only) | 100 | <span style='color: red;'>coming soon!</span> |
+| Monthly Mixer Pro Raffle Entry | 100 | <span style='color: red;'>coming soon!</span> |
 | Pose a challenge to Tim (see [Challenge Rules](#challenge-prize-rules)) | 750  | !challenge |
 | Make Tim eat a Beanboozled Bean | 1000 | !bean |
 | Make Tim play a game of your choice (see [Game Rules](#game-prize-rules)) | 5000 | !game |
