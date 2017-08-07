@@ -2,11 +2,9 @@
 
 **These rules apply across all facets of ICT - Stream, Discord, or public event.**
 
-1. Don't be a dick. This is pretty vague, but surprisingly we've had some people unsure as to what this means. It means don't be a jerk. This is repeated in the "Follow the Golden Rule" rule. Be kind to each other. You're all human beings and you can poke fun at one another or the streamer (yes, I'm a person too) without being mean about it.
-
-   I'd also like to specify, please, absolutely NO rape jokes or edgelord memes. I really don't appreciate these. They're not funny.
-
-   I'm also going to have to specify DO NOT argue with mods or the streamer. Their word is final, and if you have an issue, please take it up in DMs on Discord, not in public forums.
+1. Don't be a dick. This is pretty vague, but surprisingly we've had some people unsure as to what this means. It means don't be a jerk. This is repeated in the "Follow the Golden Rule" rule. Be kind to each other. You're all human beings and you can poke fun at one another or the streamer (yes, I'm a person too) without being mean about it.  
+  I'd also like to specify, please, absolutely NO rape jokes or edgelord memes. I really don't appreciate these. They're not funny.  
+  I'm also going to have to specify DO NOT argue with mods or the streamer. Their word is final, and if you have an issue, please take it up in DMs on Discord, not in public forums.
 
 2. NO religion/politics. This is one that I constantly have to enforce. Leave the politics or religious discussion to whispers with others or discussion in Discord DMs. It has no place in ICT public view, period. If a game has politics, you can discuss politics in context of the game, but politics has torn tight-knit families apart. I've seen what it can do to a community our size. This also applies to memes, jokes, and even naming yourself in Quiplash. Just don't.
 
