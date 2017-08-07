@@ -13,19 +13,19 @@ You can check your tickets at any time using **!tickets** in chat.
 | Make Tim play a game of your choice (see [Game Rules](#game-prize-rules)) | 5000 | !game |
 
 ## Challenge Prize Rules  
-Tim will make an effort to defeat the challenge you set forth, as long as it's reasonable.
+* Tim will make an effort to defeat the challenge you set forth, as long as it's reasonable.
 
-***REASONABLE*** is defined as something that could be accomplished by a regular gamer with some effort. It must be set within the game that is being played at the time.
+* ***REASONABLE*** is defined as something that could be accomplished by a regular gamer with some effort. It must be set within the game that is being played at the time.
 
-If no time limit is set (such as "in one round") Tim will try to accomplish it in 10 minutes.
+* If no time limit is set (such as "in one round") Tim will try to accomplish it in 10 minutes.
 
-All challenges subject to veto by Tim.
+* All challenges subject to veto by Tim.
 
 ## Game Prize Rules  
-Games selected by viewers must be owned by Tim (or gifted to him).
+* Games selected by viewers must be owned by Tim (or gifted to him).
 
-He will play for a minimum of 15 minutes, more if he's liking it.
+* He will play for a minimum of 15 minutes, more if he's liking it.
 
-It will be played during the next stream where the schedule is flexible (non-promotional times).
+* It will be played during the next stream where the schedule is flexible (non-promotional times).
 
-The game must be allowed by TOS and can be vetoed by Tim for any reason.
+* The game must be allowed by TOS and can be vetoed by Tim for any reason.
