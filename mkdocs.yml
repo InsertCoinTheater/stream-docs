@@ -1,4 +1,5 @@
 site_name: ICT Chat Guide
+site_url: http://insertcointheater.com
 pages:
 - Home: 'index.md'
 - Rules: 'rules.md'

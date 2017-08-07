@@ -2,7 +2,7 @@
 
 **These rules apply across all facets of ICT - Stream, Discord, or public event.**
 
-1. Don't be a dick. It means be respectful to each other. This is repeated in the "Follow the Golden Rule" rule. Be kind to each other. You're all human beings and you can poke fun at one another or the streamer (yes, Tim's a person too) without being mean about it.  
+1. Don't be a dick. It means be respectful to each other. This is repeated in the "Follow the Golden Rule" rule. Be kind to each other. You're all human beings and you can poke fun at one another or the streamer (yes, Tim's a person too) without being mean about it.
   1. Absolutely NO rape jokes or edgelord memes. They're not funny and wholly unappreciated.  
   2. DO NOT argue with mods or the streamer. Their word is final, and if you have an issue, please take it up in DMs on Discord, not in public forums.
 
