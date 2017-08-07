@@ -9,10 +9,26 @@ Each Lootbox contains Tickets, Tokens, Steam Game Giveaways, or an instant Beanb
 | Prize | Tickets | Command |
 | ------------ | -------------: | ------------ |
 | Text-To-Speech | 50  | !tts your message here |
-| Pose a challenge to Tim (see [Challenge Prize Rules]) | 750  | !challenge |
+| Pose a challenge to Tim (see [Challenge Rules](#challenge-prize-rules)) | 750  | !challenge |
 | Make Tim eat a Beanboozled Bean | 1000 | !bean |
-| Make Tim play a game of your choice (see [Game Prize Rules]) | 5000 | !game |
+| Make Tim play a game of your choice (see [Game Rules](#game-prize-rules)) | 5000 | !game |
 
 ## Challenge Prize Rules
 
+Tim will make an effort to defeat the challenge you set forth, as long as it's reasonable.
+
+***REASONABLE*** is defined as something that could be accomplished by a regular gamer with some effort. It must be set within the game that is being played at the time.
+
+If no time limit is set (such as "in one round") Tim will try to accomplish it in 10 minutes.
+
+All challenges subject to veto by Tim.
+
 ## Game Prize Rules
+
+Games selected by viewers must be owned by Tim (or gifted to him).
+
+He will play for a minimum of 15 minutes, more if he's liking it.
+
+It will be played during the next stream where the schedule is flexible (non-promotional times).
+
+The game must be allowed by TOS and can be vetoed by Tim for any reason.
