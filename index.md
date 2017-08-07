@@ -1,3 +1,1 @@
-# Insert Coin Theater Chat Guide
-
 Welcome to Insert Coin Theater! Please be sure to read the [Rules](rules.md) before participating. Feel free to engage using your hard-earned [Tokens](tokens.md) and [Tickets](tickets.md) during streams. See you there!
