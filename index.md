@@ -1,1 +1,1 @@
-Please see the [Prizes](tickets/prizes.md) for further details.
+# Insert Coin Theater Chat Guide
