@@ -1,1 +1,1 @@
-Please see the [Prizes](prizes.md) for further details.
+Please see the [Prizes](tickets/prizes.md) for further details.

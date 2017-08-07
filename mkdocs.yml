@@ -1,4 +1,5 @@
 site_name: ICT Chat Guide
 pages:
 - Home: 'index.md'
-- Prizes: 'prizes.md'
+- Tokens: 'tokens.md'
+- Tickets: 'tickets.md'
