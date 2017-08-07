@@ -4,8 +4,7 @@ Chat Prizes are unlocked using Tickets, which are earned from [Lootboxes](tokens
 
 Each Lootbox contains Tickets, Tokens, Steam Game Giveaways, or an instant Beanboozled Bean for Tim to eat on-the-spot!
 
-## Prizes, Costs and Commands
-
+## Prizes, Costs and Commands  
 | Prize | Tickets | Command |
 | ------------ | -------------: | ------------ |
 | Text-To-Speech (Sub Only) | 50  | !tts your message here |
@@ -15,8 +14,7 @@ Each Lootbox contains Tickets, Tokens, Steam Game Giveaways, or an instant Beanb
 | Make Tim eat a Beanboozled Bean | 1000 | !bean |
 | Make Tim play a game of your choice (see [Game Rules](#game-prize-rules)) | 5000 | !game |
 
-## Challenge Prize Rules
-
+## Challenge Prize Rules  
 Tim will make an effort to defeat the challenge you set forth, as long as it's reasonable.
 
 ***REASONABLE*** is defined as something that could be accomplished by a regular gamer with some effort. It must be set within the game that is being played at the time.
@@ -25,8 +23,7 @@ If no time limit is set (such as "in one round") Tim will try to accomplish it i
 
 All challenges subject to veto by Tim.
 
-## Game Prize Rules
-
+## Game Prize Rules  
 Games selected by viewers must be owned by Tim (or gifted to him).
 
 He will play for a minimum of 15 minutes, more if he's liking it.
