@@ -19,7 +19,7 @@ On occasion, Tim will open up the Jukebox to non-subscribers. When live, it cost
 
 **NOTE:** Requesting offensive songs or songs with slurs (the "N" word) can result in a timeout or ban in accordance with the [Rules](rules.md). Keep it classy.
 
-### Lootboxes  
+## Lootboxes  
 Lootboxes are randomized prize packages. For each Lootbox redeemed, you will get 1-3 prizes containing a combination of the following:
 
 * Tickets
@@ -31,10 +31,55 @@ A Lootbox costs **2000 Tokens** to redeem. You can redeem it using **!lootbox** 
 
 Once you redeem a Lootbox, the prizes must be [Claimed](#claiming-lootbox-prizes) using **!claim**.
 
-#### Claiming Lootbox Prizes  
+### Claiming Lootbox Prizes  
 Once a Lootbox has been redeemed, you should receive a response whisper containing a list of the prizes you win. The prizes will also appear on-stream.
 
 For Ticket and Token prizes, you will need to use **!claim** to claim the prizes and add them to your account. For Giveaway and Bean prizes, they will be redeemed as soon as possible by Tim.
 
-#### Free Lootboxes  
+### Free Lootboxes  
 Every **18 hours**, subscribers to Insert Coin Theater receive one free Lootbox, redeemed with the appropriate button on the Interactive board.
+
+### Lootbox Prize List
+This is as current as I can keep it and is liable to change as time goes on.
+
+#### Average Prizes
+| Amount | Type |
+| ------------ | ------------ |
+| 75 | Tickets |
+| 100 | Tickets |
+| 115 | Tickets |
+| 125 | Tickets |
+
+#### Good Prizes
+| Amount | Type |
+| ------------ | ------------ |
+| 150 | Tickets |
+| 175 | Tickets |
+| 200 | Tickets |
+| 250 | Tickets |
+
+#### Awesome Prizes
+| Amount | Type |
+| ------------ | ------------ |
+| 275 | Tickets |
+| 300 | Tickets |
+| 350 | Tickets |
+| 400 | Tickets |
+
+#### Fantastic Prizes
+| Amount | Type |
+| ------------ | ------------ |
+| 450 | Tickets |
+| 500 | Tickets |
+| 550 | Tickets |
+| 1 | Giveaway |
+
+#### Epic Prizes
+| Amount | Type |
+| ------------ | ------------ |
+| 600 | Tickets |
+| 750 | Tickets |
+| 1000 | Tickets |
+| 2000 | Tokens |
+| 2 | Giveaway |
+| 1 | Bean |
