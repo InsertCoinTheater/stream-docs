@@ -42,44 +42,27 @@ Every **18 hours**, subscribers to Insert Coin Theater receive one free Lootbox,
 ### Lootbox Prize List
 This is as current as I can keep it and is liable to change as time goes on.
 
-#### Average Prizes
-| Amount | Type |
-| ------------ | ------------ |
-| 75 | Tickets |
-| 100 | Tickets |
-| 115 | Tickets |
-| 125 | Tickets |
-
-#### Good Prizes
-| Amount | Type |
-| ------------ | ------------ |
-| 150 | Tickets |
-| 175 | Tickets |
-| 200 | Tickets |
-| 250 | Tickets |
-
-#### Awesome Prizes
-| Amount | Type |
-| ------------ | ------------ |
-| 275 | Tickets |
-| 300 | Tickets |
-| 350 | Tickets |
-| 400 | Tickets |
-
-#### Fantastic Prizes
-| Amount | Type |
-| ------------ | ------------ |
-| 450 | Tickets |
-| 500 | Tickets |
-| 550 | Tickets |
-| 1 | Giveaway |
-
-#### Epic Prizes
-| Amount | Type |
-| ------------ | ------------ |
-| 600 | Tickets |
-| 750 | Tickets |
-| 1000 | Tickets |
-| 2000 | Tokens |
-| 2 | Giveaway |
-| 1 | Bean |
+| Level | Amount | Type |
+| ------------ | ------------ | ------------ |
+| <span style='color: gray; font-weight: bold;'>Average</span> | 75 | Tickets |
+| <span style='color: gray; font-weight: bold;'>Average</span> | 100 | Tickets |
+| <span style='color: gray; font-weight: bold;'>Average</span> | 115 | Tickets |
+| <span style='color: gray; font-weight: bold;'>Average</span> | 125 | Tickets |
+| <span style='color: green; font-weight: bold;'>Good</span> | 150 | Tickets |
+| <span style='color: green; font-weight: bold;'>Good</span> | 175 | Tickets |
+| <span style='color: green; font-weight: bold;'>Good</span> | 200 | Tickets |
+| <span style='color: green; font-weight: bold;'>Good</span> | 250 | Tickets |
+| <span style='color: blue; font-weight: bold;'>Awesome</span> | 275 | Tickets |
+| <span style='color: blue; font-weight: bold;'>Awesome</span> | 300 | Tickets |
+| <span style='color: blue; font-weight: bold;'>Awesome</span> | 350 | Tickets |
+| <span style='color: blue; font-weight: bold;'>Awesome</span> | 400 | Tickets |
+| <span style='color: purple; font-weight: bold;'>Fantastic</span> | 450 | Tickets |
+| <span style='color: purple; font-weight: bold;'>Fantastic</span> | 500 | Tickets |
+| <span style='color: purple; font-weight: bold;'>Fantastic</span> | 550 | Tickets |
+| <span style='color: purple; font-weight: bold;'>Fantastic</span> | 1 | Giveaway |
+| <span style='color: DarkGoldenRod; font-weight: bold;'>Epic</span> | 600 | Tickets |
+| <span style='color: DarkGoldenRod; font-weight: bold;'>Epic</span> | 750 | Tickets |
+| <span style='color: DarkGoldenRod; font-weight: bold;'>Epic</span> | 1000 | Tickets |
+| <span style='color: DarkGoldenRod; font-weight: bold;'>Epic</span> | 2000 | Tokens |
+| <span style='color: DarkGoldenRod; font-weight: bold;'>Epic</span> | 2 | Giveaway |
+| <span style='color: DarkGoldenRod; font-weight: bold;'>Epic</span> | 1 | Bean |
