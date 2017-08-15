@@ -43,7 +43,7 @@ Every **18 hours**, subscribers to Insert Coin Theater receive one free Lootbox,
 ### Lootbox Prize List
 This is as current as I can keep it and is liable to change as time goes on.
 
-If you only get one item out of a box, you'll gain a bonus 30% to your base roll. This means that the minimum you can get is a 31% and the max you can get is 130%, which cuts the chance of an <span style='color: gray; font-weight: bold;'>Average</span> item by half, increasing your chance to get <span style='color: green; font-weight: bold;'>Good</span> or better!
+If you only get one item out of a box, you'll gain a bonus 20% to your base roll. This means that the minimum you can get is a 21% and the max you can get is 120%, which cuts the chance of an <span style='color: gray; font-weight: bold;'>Average</span> item by half, increasing your chance to get <span style='color: green; font-weight: bold;'>Good</span> or better!
 
 | Level | Amount | Type | Chance |
 | ------------ | ------------ | ------------ | ------------ |
