@@ -1,7 +1,7 @@
 <h1>Commands</h1>
 Insert Coin Theater has a wide array of commands, broken into the below categories.
 
-==Mini-Games==
+## Mini-Games
 The mini-games are a selection of chat-based games you can play with your fellow viewers.
 
 | Name | Description | Command |
@@ -10,7 +10,7 @@ The mini-games are a selection of chat-based games you can play with your fellow
 | Laser Tag | Enter the arena with a team and see who makes it out without being blasted. | !lasertag &lt;amt&gt; |
 | DDR | Challenge everyone in chat to a Dance Dance Revolution tournament and see who gets the highest score! | !ddr &lt;amt&gt; |
 
-==Currency and Rank Commands==
+## Currency and Rank Commands
 Currency is the driving force of the chat. [Tokens](tokens.md) are earned by watching the stream and are used for the mini-games and lootboxes. See [Tokens](tokens.md) for more info about lootboxes. [Tickets](tickets.md) are used to initiate prizes! See [Tickets](tickets.md) to see what prizes are available.
 
 | Name | Description | Command |
@@ -19,7 +19,7 @@ Currency is the driving force of the chat. [Tokens](tokens.md) are earned by wat
 | Tickets | View how many tickets you have in chat. | !tickets |
 | Rank | View your rank, based on hours. | !rank |
 
-==Information Commands==
+## Information Commands
 These commands will return information regarding the command's topic in-chat or via whisper.
 
 | Name | Description | Command |
@@ -35,14 +35,14 @@ These commands will return information regarding the command's topic in-chat or 
 | Xbox Club | Details on the Xbox Club! | !xboxclub |
 
 
-==Music Commands==
+## Music Commands
 When the jukebox is live, Subscribers can request YouTube or Spotify songs to play.
 
 | Name | Description | Command |
 | ------------ | ------------- | ------------ |
 | Song Request | Requests a song to be played | !sr &lt;URL&gt; |
 
-==Misc Commands==
+## Misc Commands
 These are goofy or fun commands that don't really fit in a category.
 
 | Name | Description | Command |
