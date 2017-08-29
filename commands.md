@@ -40,7 +40,8 @@ When the jukebox is live, Subscribers can request YouTube or Spotify songs to pl
 
 | Name | Description | Command |
 | ------------ | ------------- | ------------ |
-| Song Request | Requests a song to be played | !sr &lt;URL&gt; |
+| YT Song Request | Requests a YouTube song to be played | !sr &lt;URL or search&gt; |
+| Spotify Song Request | Requests a Spotify song to be played. | !spotify &lt;Spotify link&gt;
 
 ## Misc Commands
 These are goofy or fun commands that don't really fit in a category.
