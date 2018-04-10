@@ -6,12 +6,12 @@ The mini-games are a selection of chat-based games you can play with your fellow
 
 | Name | Description | Command |
 | ------------ | ------------- | ------------ |
-| Claw Game | Drop tokens into the claw game to try to grab more tokens! | !claw &lt;amt&gt; |
-| Laser Tag | Enter the arena with a team and see who makes it out without being blasted. | !lasertag &lt;amt&gt; |
-| DDR | Challenge everyone in chat to a Dance Dance Revolution tournament and see who gets the highest score! | !ddr &lt;amt&gt; |
+| Token Pusher | Drop a Token in and see if you can knock some Tokens back into your pocket!  | !push &lt;Tokens amount&gt; |
+| DDR Tournament | Play some Dance Dance Revolution against other viewers to win the gambled prize pool of Tokens. | !ddr &lt;Tokens amount&gt; |
+| Volcoino Machine | Drop some Tokens into the machine. It could erupt, spraying Tokens all over the arcade for others to scrounge! | !drop &lt;Tokens amount&gt; |
 
 ## Currency and Rank Commands
-Currency is the driving force of the chat. [Tokens](tokens.md) are earned by watching the stream and are used for the mini-games and lootboxes. See [Tokens](tokens.md) for more info about lootboxes. [Tickets](tickets.md) are used to initiate prizes! See [Tickets](tickets.md) to see what prizes are available.
+Currency is the driving force of the chat. [Tokens](tokens.md) are earned by watching the stream and are used for the mini-games and Gachapon. See [Tokens](tokens.md) for more info about Gachapon. [Tickets](tickets.md) are used to initiate prizes! See [Tickets](tickets.md) to see what prizes are available.
 
 | Name | Description | Command |
 | ------------ | ------------- | ------------ |
@@ -25,9 +25,9 @@ These commands will return information regarding the command's topic in-chat or 
 | Name | Description | Command |
 | ------------ | ------------- | ------------ |
 | AR | Info on the Arcade Raiders stream team. | !ar |
+| AA | Info on the Arcade Alliance Community Stream Team. | !aa |
 | Beanies | Get info on where to buy your own official ICT beanie! | !beanies |
-| Bugs/Errors | Run into a weird bug or error on Mixer? This command will tell you how to report it! | !bugs |
-| Social Connections | Shows Twitter, Discord, YouTube, and Vidme links. | !social |
+| Social Connections | Shows Twitter, Discord, and YouTube links. | !social |
 | Rules | Get an abbreviated version of the rules, plus a link to the full rules. | !rules |
 | Gamertag | Tim's Xbox Live gamertag. | !gt |
 | Tags | Tim's various gaming platform IDs. | !tag |
@@ -40,10 +40,11 @@ When the jukebox is live, Subscribers can request YouTube or Spotify songs to pl
 
 | Name | Description | Command |
 | ------------ | ------------- | ------------ |
-| YT Song Request | Requests a YouTube song to be played | !sr &lt;URL or search&gt; |
-| Spotify Song Request | Requests a Spotify song to be played. | !spotify &lt;Spotify link&gt;
+| Song Request | Request a song based on the current software - YT or Spotify links. | !sr &lt;title or link&gt; |
+| Current Song | Displays current song title in chat. | !song |
+| Next Song | Displays the next song in the playlist. | !nextsong |
 
-## Misc Commands
+## Fun Commands
 These are goofy or fun commands that don't really fit in a category.
 
 | Name | Description | Command |
@@ -63,7 +64,6 @@ These are goofy or fun commands that don't really fit in a category.
 | Table Unflip | Undo the damage. | !unflip |
 | Dick Flip | Flip a dick... like a table? | !flipdicks |
 | Fuck Me | Tells Tim exactly what a proper response for when he says "Oh, fuck me!" is. | !fuckme |
-| Fuck Zone | For when Tim enters the fuck zone. | !fuckzone |
 | Furball Rage | Someone mention Nintendo? How about Apple? Microtransactions? Do it. | !furballrage |
 | Hug | Give someone who needs it a super-sexy hug. | !hug &lt;target&gt; |
 | Lurk | Stepping away from the computer? Hopping away from chat for a bit? Lurk it up! | !lurk |
@@ -75,5 +75,4 @@ These are goofy or fun commands that don't really fit in a category.
 | Rekt | Tim got rekt. | !rekt |
 | Reasons | Add to the reasons why we can't have nice things. | !reasons |
 | R.I.P.saw | If the video capture freezes, hit this. | !ripsaw |
-| Trash Train | All aboard, woo woo! | !trashtrain |
 | Texas is Bestest | I disagree. | !tx |

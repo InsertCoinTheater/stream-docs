@@ -1,7 +1,7 @@
 <h1>Tokens</h1>
-Tokens are the primary currency of Insert Coin Theater. Tokens are earned by watching the stream, with bonuses being given for being engaged in chat, becoming a regular (15 hours or more of view time), or being a subscriber!
+Tokens are the primary currency of Insert Coin Theater. Tokens are earned by watching the stream, with bonus Tokens being given for being a subscriber!
 
-Tokens are awarded every 20 minutes. They **cannot* be given to other viewers.
+Tokens are awarded every 15 minutes. They **cannot* be given to other viewers.
 
 You can check your Tokens at any time by using **!tokens** in chat.
 
@@ -11,61 +11,58 @@ There are a variety of mini-games in which you can participate in the Arcade. Th
 
 | Game | Description | Command |
 | ------------ | ------------- | ------------ |
-| Claw Game | Test your "skill" with the Claw Game to try to get a bonus of tokens over top of what you put into the machine!  | !claw &lt;tokens amount&gt; |
-| Laser Tag | Battle against an NPC group of Laser Tag combatants to try to earn a Token bonus over what you bet! | !lasertag &lt;tokens amount&gt; |
-| DDR Tournament | Play some Dance Dance Revolution against other viewers to win the gambled prize pool of tokens. | !ddr &lt;tokens amount&gt; |
+| Token Pusher | Drop a Token in and see if you can knock some Tokens back into your pocket!  | !push &lt;Tokens amount&gt; |
+| DDR Tournament | Play some Dance Dance Revolution against other viewers to win the gambled prize pool of Tokens. | !ddr &lt;Tokens amount&gt; |
+| Volcoino Machine | Drop some Tokens into the machine. It could erupt, spraying Tokens all over the arcade for others to scrounge! | !drop &lt;Tokens amount&gt; |
 
-### Open Jukebox  
-On occasion, Tim will open up the Jukebox to non-subscribers. When live, it costs 200 Tokens to request a song that will be played on-stream.
-
-**NOTE:** Requesting offensive songs or songs with slurs (the "N" word) can result in a timeout or ban in accordance with the [Rules](rules.md). Keep it classy.
-
-## Lootboxes  
-Lootboxes are randomized prize packages. For each Lootbox redeemed, you will get 1-3 prizes containing a combination of the following:
+## Gachapon  
+Gachapon are randomized prize packages. For each Gachapon capsule redeemed, it will contain one of the following:
 
 * Tickets
 * Tokens
-* Steam Game Code Giveaways
-* Instant Beanboozled Bean Challenges
+* A Random Trophy
 
-A Lootbox costs **2000 Tokens** to redeem. You can redeem it using **!lootbox** in chat.
+A Gachapon capsule costs **2000 Tokens** to redeem. You can redeem it using **!gacha**, **!gachapon**, **!gasha** or **!gashapon** in chat.
 
-Once you redeem a Lootbox, the prizes must be [Claimed](#claiming-lootbox-prizes) using **!claim**.
+### Free Gachapon  
+Every **18 hours**, Subscribers to Insert Coin Theater receive one free Gachapon capsule, redeemed using **!subgacha**, **!subgasha**, **!subgachapon**, or **!subgashapon** in chat.
 
-### Claiming Lootbox Prizes  
-Once a Lootbox has been redeemed, you should receive a response whisper containing a list of the prizes you win. The prizes will also appear on-stream.
-
-For Ticket and Token prizes, you will need to use **!claim** to claim the prizes and add them to your account. For Giveaway and Bean prizes, they will be redeemed as soon as possible by Tim.
-
-### Free Lootboxes  
-Every **18 hours**, subscribers to Insert Coin Theater receive one free Lootbox, redeemed with the appropriate button on the Interactive board.
-
-### Lootbox Prize List
+### Gachapon Prize List
 This is as current as I can keep it and is liable to change as time goes on.
 
 If you only get one item out of a box, you'll gain a bonus 20% to your base roll. This means that the minimum you can get is a 21% and the max you can get is 120%, which cuts the chance of an <span style='color: gray; font-weight: bold;'>Average</span> item by &#8531;, increasing your chance to get <span style='color: green; font-weight: bold;'>Good</span> or better items!
 
 | Level | Amount | Type | Chance |
 | ------------ | ------------ | ------------ | ------------ |
-| <span style='color: gray; font-weight: bold;'>Average</span> | 75 | Tickets | 60% |
-| <span style='color: gray; font-weight: bold;'>Average</span> | 100 | Tickets | 60% |
-| <span style='color: gray; font-weight: bold;'>Average</span> | 115 | Tickets | 60% |
-| <span style='color: gray; font-weight: bold;'>Average</span> | 125 | Tickets | 60% |
-| <span style='color: green; font-weight: bold;'>Good</span> | 150 | Tickets | 25% |
-| <span style='color: green; font-weight: bold;'>Good</span> | 175 | Tickets | 25% |
-| <span style='color: green; font-weight: bold;'>Good</span> | 200 | Tickets | 25% |
-| <span style='color: green; font-weight: bold;'>Good</span> | 250 | Tickets | 25% |
-| <span style='color: blue; font-weight: bold;'>Awesome</span> | 275 | Tickets | 9% |
-| <span style='color: blue; font-weight: bold;'>Awesome</span> | 300 | Tickets | 9% |
-| <span style='color: blue; font-weight: bold;'>Awesome</span> | 350 | Tickets | 9% |
-| <span style='color: blue; font-weight: bold;'>Awesome</span> | 400 | Tickets | 9% |
-| <span style='color: purple; font-weight: bold;'>Fantastic</span> | 450 | Tickets | 4% |
-| <span style='color: purple; font-weight: bold;'>Fantastic</span> | 500 | Tickets | 4% |
-| <span style='color: purple; font-weight: bold;'>Fantastic</span> | 550 | Tickets | 4% |
-| <span style='color: purple; font-weight: bold;'>Fantastic</span> | 1 | Giveaway | 4% |
-| <span style='color: DarkGoldenRod; font-weight: bold;'>Epic</span> | 600 | Tickets | 2% |
-| <span style='color: DarkGoldenRod; font-weight: bold;'>Epic</span> | 750 | Tickets | 2% |
-| <span style='color: DarkGoldenRod; font-weight: bold;'>Epic</span> | 1000 | Tickets | 2% |
-| <span style='color: DarkGoldenRod; font-weight: bold;'>Epic</span> | 2000 | Tokens | 2% |
-| <span style='color: DarkGoldenRod; font-weight: bold;'>Epic</span> | 2 | Giveaway | 2% |
-| <span style='color: DarkGoldenRod; font-weight: bold;'>Epic</span> | 1 | Bean | 2% |
+| <span style='color: gray; font-weight: bold;'>Average</span> | 125 | Tickets | 50% |
+| <span style='color: gray; font-weight: bold;'>Average</span> | 135 | Tickets | 50% |
+| <span style='color: gray; font-weight: bold;'>Average</span> | 150 | Tickets | 30% |
+| <span style='color: gray; font-weight: bold;'>Average</span> | 175 | Tickets | 30% |
+| <span style='color: gray; font-weight: bold;'>Average</span> | Tim | Trophy | 30% |
+| <span style='color: gray; font-weight: bold;'>Average</span> | Train | Trophy | 30% |
+| <span style='color: gray; font-weight: bold;'>Average</span> | WTF | Trophy | 30% |
+| <span style='color: green; font-weight: bold;'>Good</span> | 200 | Tickets | 10% |
+| <span style='color: green; font-weight: bold;'>Good</span> | 250 | Tickets | 10% |
+| <span style='color: green; font-weight: bold;'>Good</span> | Hype | Trophy | 10% |
+| <span style='color: green; font-weight: bold;'>Good</span> | RIP | Trophy | 10% |
+| <span style='color: green; font-weight: bold;'>Good</span> | Trophy | Trophy | 10% |
+| <span style='color: blue; font-weight: bold;'>Awesome</span> | 275 | Tickets | 7.5% |
+| <span style='color: blue; font-weight: bold;'>Awesome</span> | 300 | Tickets | 7.5% |
+| <span style='color: blue; font-weight: bold;'>Awesome</span> | 350 | Tickets | 7.5% |
+| <span style='color: blue; font-weight: bold;'>Awesome</span> | 400 | Tickets | 7.5% |
+| <span style='color: blue; font-weight: bold;'>Awesome</span> | CoolTim | Trophy | 7.5% |
+| <span style='color: blue; font-weight: bold;'>Awesome</span> | Bean | Trophy | 7.5% |
+| <span style='color: purple; font-weight: bold;'>Fantastic</span> | 600 | Tickets | 2% |
+| <span style='color: purple; font-weight: bold;'>Fantastic</span> | 750 | Tickets | 2% |
+| <span style='color: purple; font-weight: bold;'>Fantastic</span> | 900 | Tickets | 4% |
+| <span style='color: purple; font-weight: bold;'>Fantastic</span> | Ticket | Trophy | 4% |
+| <span style='color: purple; font-weight: bold;'>Fantastic</span> | Heart | Trophy | 4% |
+| <span style='color: purple; font-weight: bold;'>Fantastic</span> | GG | Trophy | 4% |
+| <span style='color: DarkGoldenRod; font-weight: bold;'>Epic</span> | 1000 | Tickets | 0.5% |
+| <span style='color: DarkGoldenRod; font-weight: bold;'>Epic</span> | 1200 | Tickets | 0.5% |
+| <span style='color: DarkGoldenRod; font-weight: bold;'>Epic</span> | 10000 | Tokens | 0.5% |
+| <span style='color: DarkGoldenRod; font-weight: bold;'>Epic</span> | 69 | Trophy | 0.5% |
+| <span style='color: DarkGoldenRod; font-weight: bold;'>Epic</span> | Coin | Trophy | 0.5% |
+
+## Trophies
+Trophies are a special collectible that, as of 4/10/2018, has no real value. However, if you come across a duplicate, it will be converted into Tickets and worth a higher value than what you could normally get from the same tier of rarity.
